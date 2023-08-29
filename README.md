@@ -20,14 +20,13 @@
 
 ## 기술 스택 (Technique Used) 
 ### Server(back-end)
- -  nodejs, php, java 등 서버 언어 버전 
- - express, laravel, sptring boot 등 사용한 프레임워크 
- - DB 등 사용한 다른 프로그램 
  
 ### Front-end
- -  react.js, vue.js 등 사용한 front-end 프레임워크 
- -  UI framework
- - 기타 사용한 라이브러리
+ - React (JavaScript 라이브러리) 
+ - Bootstrap: 웹사이트 디자인 및 스타일링.
+ - React Router DOM: 웹사이트 내 페이지 라우팅.
+ - React DnD: 드래그 앤 드롭 기능 구현.
+ - HTML5Backend: React DnD와 함께 사용하여 드래그 앤 드롭 기능을 지원.
 
 ## 설치 안내 (Installation Process)
 ```bash
@@ -47,8 +46,11 @@ $ yarn start or npm run start
  샘플 에디터 [https://stackedit.io/app#](https://stackedit.io/app#)
  
 ## 팀 정보 (Team Information)
-- hong gil dong (hong999@gmail.com), Github Id: gildong999
-- kim su ji (suji999@gmail.com), Github Id: suji999
+- 기획 : 김세희 (sehee4759@naver.com), Github Id: sehee2i
+- 개발1 : 서준호 (jijo0718@gmail.com), Github Id: DDunos
+- 개발2 : 최윤영 (yunyoung0531@naver.com), Github Id: yunyoung0531
+- 디자인1 : 김수민 (froze0106001@naver.com), Github Id: froze0106001
+- 디자인2 : 박서연 (parkseoyeon05@naver.com), Github Id: gildong999
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
  * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
