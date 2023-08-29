@@ -50,7 +50,7 @@ $ yarn start or npm run start
 - 개발1 : 서준호 (jijo0718@gmail.com), Github Id: DDunos
 - 개발2 : 최윤영 (yunyoung0531@naver.com), Github Id: yunyoung0531
 - 디자인1 : 김수민 (froze0106001@naver.com), Github Id: froze0106001
-- 디자인2 : 박서연 (parkseoyeon05@naver.com), Github Id: gildong999
+- 디자인2 : 박서연 (parkseoyeon05@naver.com), Github Id: 
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
  * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
