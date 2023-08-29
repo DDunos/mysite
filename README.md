@@ -1,8 +1,8 @@
-### 본 페이지는 샘플입니다. 아래의 *[샘플 양식에 포함되어 있는 항목은 필수 기재사항]*   입니다.
-해당 내용은 모두 예시이며 설명이 부족하거나 추가하고싶은 부분이 있으면 개발자님이 추가해서 작성하셔도 무관합니다. (동영상, 이미지, 텍스트 적용 전부 자유)
+# &_Dolphin *[4th-Oasis-Hackathon]*
+**돌고래들은 무리를 지어 생활하며 서로 협력합니다. 우리 팀 'And Dolphin'은 서로 협력하고, 'Endorphin'과 같이 사람들에게 행복을 주는 점이 비슷합니다.**
 
 
-# Project name or Logo
+# Project name & Logo
 ![오아시스로고](https://user-images.githubusercontent.com/64114699/178138225-3a1e530d-f4e6-4c02-a16f-cadb8d164fc6.png)
 
 
