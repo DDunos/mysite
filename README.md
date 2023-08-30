@@ -3,7 +3,7 @@
 
 
 # Project name & Logo
-![오아시스로고](https://user-images.githubusercontent.com/64114699/178138225-3a1e530d-f4e6-4c02-a16f-cadb8d164fc6.png)
+![분리쑥오 로고](https://cdn.discordapp.com/attachments/1140898430168879114/1146306389526978560/231_20230830135121.png)
 
 
 프로젝트명 또는 프로젝트 로고 이미지 **(택1)**
