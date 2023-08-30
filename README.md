@@ -57,6 +57,9 @@
 <img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146417537605718137/Screenshot_20230830_210749_ibisPaint_X.jpg" width="200" height="400"/>
 </p>
 
+
+ - Figma: 홈페이지 구성 및 디자인
+
 ## 설치 안내 (Installation Process)
 ```bash
 $ git clone git주소
