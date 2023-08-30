@@ -27,14 +27,16 @@
 
 
 ## 기술 스택 (Technique Used) 
-### Server(back-end)
- 
 ### Front-end
  - React (JavaScript 라이브러리) 
  - Bootstrap: 웹사이트 디자인 및 스타일링.
  - React Router DOM: 웹사이트 내 페이지 라우팅.
  - React DnD: 드래그 앤 드롭 기능 구현.
  - HTML5Backend: React DnD와 함께 사용하여 드래그 앤 드롭 기능을 지원.
+
+### Design
+ - ibis Paint X
+   <img src="(https://github.com/DDunos/mysite/assets/101813425/2b5d5c45-5ff3-4b9f-b11f-450d6c79b95e" width="200" height="200"/>
 
 ## 설치 안내 (Installation Process)
 ```bash
