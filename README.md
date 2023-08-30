@@ -64,9 +64,7 @@
 
 ## 설치 안내 (Installation Process)
 ```bash
-$ git clone git주소
-$ yarn or npm install
-$ yarn start or npm run start
+$ git clone git
 ```
 
 ## 프로젝트 사용법 (Getting Started)
@@ -86,7 +84,3 @@ $ yarn start or npm run start
  `디자인1`  김수민 (froze0106001@naver.com), Github Id: froze0106001  
  `디자인2`  박서연 (parkseoyeon05@naver.com), Github Id: Iwanttofinishthisstage  
 
-## 저작권 및 사용권 정보 (Copyleft / End User License)
- * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
-
-This project is licensed under the terms of the MIT license.
