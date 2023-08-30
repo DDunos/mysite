@@ -38,7 +38,7 @@
  - ibis Paint X
 <p>
 <img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146392679928832060/154.gif" width="200" height="200"/>
-&#200;&#200;
+&#160;&#160;
 <img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146392680323104852/231.gif" width="200" height="200"/>
 </p>
 
