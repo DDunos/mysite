@@ -3,7 +3,7 @@
 
 
 # Project name & Logo
-<img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146306389526978560/231_20230830135121.png" width="700" height="700"/>
+<img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146306389526978560/231_20230830135121.png" width="600" height="600"/>
 
 
 ## 프로잭트 소개
@@ -36,6 +36,8 @@
 
 ### Design
  - ibis Paint X
+<img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146392679928832060/154.gif" width="200" height="200"/>
+<img src="" width="200" height="400"/>
 <img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146392680323104852/231.gif" width="200" height="200"/>
 
 ## 설치 안내 (Installation Process)
