@@ -3,7 +3,7 @@
 
 
 # Project name & Logo
-<img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146306389526978560/231_20230830135121.png" width="600" height="600"/>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146306389526978560/231_20230830135121.png" width="600" height="600"/></p>
 
 
 ## 프로잭트 소개
