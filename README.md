@@ -23,7 +23,6 @@
 1. 검색 기능: 재활용품에 대한 정보를 직접 찾아볼 수 있는 기능
 1. 오늘의 쓰레기: 쓰레기를 제시한 뒤 무작위로 추첨해 웹사이트 내에 쓰레기가 어떤 것이 있는지 보여주는 기능
 
-## 컴퓨터 구성 / 필수 조건 안내 (Prerequisites)
 
 
 ## 기술 스택 (Technique Used) 
@@ -59,7 +58,9 @@
 
 
  - Figma: 홈페이지 구성 및 디자인
-  ![Figma](https://cdn.discordapp.com/attachments/1140269063218679882/1146455210886189066/image.png)
+
+
+![Figma](https://cdn.discordapp.com/attachments/1140269063218679882/1146455210886189066/image.png)
 
 ## 설치 안내 (Installation Process)
 ```bash
