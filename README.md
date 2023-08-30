@@ -59,7 +59,7 @@
 
 
  - Figma: 홈페이지 구성 및 디자인
-![Figma](https://cdn.discordapp.com/attachments/1140269063218679882/1146455210886189066/image.png)
+  ![Figma](https://cdn.discordapp.com/attachments/1140269063218679882/1146455210886189066/image.png)
 
 ## 설치 안내 (Installation Process)
 ```bash
