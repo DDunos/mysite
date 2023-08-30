@@ -3,7 +3,7 @@
 
 
 # Project name & Logo
-![분리쑥오 로고](https://cdn.discordapp.com/attachments/1140898430168879114/1146306389526978560/231_20230830135121.png)
+<img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146306389526978560/231_20230830135121.png" width="400" height="400"/>
 
 
 프로젝트명 또는 프로젝트 로고 이미지 **(택1)**
