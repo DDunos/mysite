@@ -36,9 +36,11 @@
 
 ### Design
  - ibis Paint X
+<p>
 <img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146392679928832060/154.gif" width="200" height="200"/>
-<img src="" width="200" height="400"/>
+<img src="" width="100" height="200"/>
 <img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146392680323104852/231.gif" width="200" height="200"/>
+</p>
 
 ## 설치 안내 (Installation Process)
 ```bash
