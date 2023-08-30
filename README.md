@@ -28,14 +28,14 @@
 
 ## 기술 스택 (Technique Used) 
 ### Code
- - React (JavaScript 라이브러리) 
+ - React: JavaScript 라이브러리 
  - Bootstrap: 웹사이트 디자인 및 스타일링.
  - React Router DOM: 웹사이트 내 페이지 라우팅.
  - React DnD: 드래그 앤 드롭 기능 구현.
  - HTML5Backend: React DnD와 함께 사용하여 드래그 앤 드롭 기능을 지원.
 
 ### Design
- - ibis Paint X
+ - ibis Paint X: 캐릭터 디자인
 <p>
 <img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146401895024427018/154_1.gif" width="200" height="200"/>
 &#160;&#160;
@@ -48,7 +48,7 @@
 </p>
 
 
- - ibis Paint X Brush  
+ - ibis Paint X Brush: 캐릭터 스케치  
  <p>
 <img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146420632389689435/Screenshot_20230830_210625_ibisPaint_X.jpg" width="200" height="400"/>
 &#160;&#160;
