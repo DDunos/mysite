@@ -27,7 +27,7 @@
 
 
 ## 기술 스택 (Technique Used) 
-### Front-end
+### Code
  - React (JavaScript 라이브러리) 
  - Bootstrap: 웹사이트 디자인 및 스타일링.
  - React Router DOM: 웹사이트 내 페이지 라우팅.
@@ -41,6 +41,12 @@
 &#160;&#160;
 <img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146401895401926716/231_1.gif" width="200" height="200"/>
 </p>
+<p>
+<img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146417241966006322/235.gif" width="200" height="200"/>
+&#160;&#160;
+<img src="https://cdn.discordapp.com/attachments/1140898430168879114/1146417242335101029/236.gif" width="200" height="200"/>
+</p>
+ - 
 
 ## 설치 안내 (Installation Process)
 ```bash
